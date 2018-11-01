@@ -1,1 +1,2 @@
-# Aula-13-Teste-de-Estacionariedade
+# 13-Testes_de_Estacionariedade
+Testes de Raízes Unitárias para modelos de previsão ARIMA
